@@ -21,3 +21,9 @@ cd des
 make
 ./bin/des
 ```
+
+## Postscript
+
+If you want to run other command, like: `make coverage` or `make run-test`, plz install googletest and lcov.
+
+- `make coverage` command will create report at `test/coverage/report`

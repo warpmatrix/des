@@ -3,3 +3,5 @@
 *debug*
 bin/
 build/
+/test/*
+!/test/src
